@@ -1,0 +1,5 @@
+{
+    "port": 1234,
+    "upload_secret": "SOMETHING RANDOM HERE (MUST BE PROVIDED AS 'upload-secret' HEADER WHEN SENDING FILE TO SERVER!",
+    "roblox_cookie": "ROBLOSECURITY COOKIE HERE"
+}
